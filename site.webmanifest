@@ -1,11 +1,11 @@
 {
-  "name": "The ESX Bot",
-  "short_name": "Bastion",
-  "start_url": "http://localhost",
+  "name": "O ESXBot",
+  "short_name": "ESXBot",
+  "start_url": "https://esxbot.github.io",
   "display": "standalone",
   "theme_color": "#070a0c",
   "background_color": "#070a0c",
-  "description": "Give awesome perks to your Discord server!",
+  "description": "Dê ótimos benefícios ao seu servidor Discord!",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -18,7 +18,7 @@
       "type": "image/png"
     }
   ],
-  "lang": "en-US",
+  "lang": "pt-BR",
   "orientation": "any",
   "related_applications": [],
   "prefer_related_applications": false
